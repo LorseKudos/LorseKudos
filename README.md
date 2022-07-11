@@ -22,9 +22,11 @@
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/LorseKudos/posts.svg)](http://qiita.com/LorseKudos)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/LorseKudos/contributions.svg)](http://qiita.com/LorseKudos)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/LorseKudos/followers.svg)](http://qiita.com/LorseKudos)
-                
+
+<!--
 [![Updated Badge](https://badges.pufler.dev/updated/LorseKudos/LorseKudos)](https://github.com/LorseKudos)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/LorseKudos)](https://github.com/LorseKudos)
+-->
 
 # Competitive Programming
 [![Badge](https://cp-logo.vercel.app/atcoder/Lorse)](https://atcoder.jp/users/Lorse) 
