@@ -30,6 +30,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SECCON beginners CTF 2020 writeup](https://lorse.hatenablog.com/entry/2020/05/24/172016)
+- [zer0pts CTF Writeup](https://lorse.hatenablog.com/entry/2020/03/09/092401)
+- [良いコーディング面接と悪いコーディング面接](https://lorse.hatenablog.com/entry/2019/12/31/170211)
+- [X-MAS CTF 2019 - Execute No Evil](https://lorse.hatenablog.com/entry/2019/12/21/215610)
+- [2019サマーインターン選考記録](https://lorse.hatenablog.com/entry/2019/08/03/223000)
 <!-- BLOG-POST-LIST:END -->
 
 # Competitive Programming
