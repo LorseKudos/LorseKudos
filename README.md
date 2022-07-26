@@ -28,6 +28,10 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/LorseKudos)](https://github.com/LorseKudos)
 -->
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 # Competitive Programming
 [![Badge](https://cp-logo.vercel.app/atcoder/Lorse)](https://atcoder.jp/users/Lorse) 
 
