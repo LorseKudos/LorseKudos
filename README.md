@@ -19,6 +19,9 @@
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=LorseKudos&count_private=true&show_icons=true&theme=dracula)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=LorseKudos&layout=compact&theme=dracula)
 
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/LorseKudos/posts.svg)](http://qiita.com/LorseKudos)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/LorseKudos/contributions.svg)](http://qiita.com/LorseKudos)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/LorseKudos/followers.svg)](http://qiita.com/LorseKudos)
