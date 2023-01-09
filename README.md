@@ -21,7 +21,7 @@
 
 <!--START_SECTION:lapras-card-->
 <a href="https://lapras.com/public/Lorse" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.74&b=3.48&i=3.87&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 1/8/2023, 1:41:41 AM
+Last Updated on 1/9/2023, 1:34:51 AM
 <!--END_SECTION:lapras-card-->
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/LorseKudos/posts.svg)](http://qiita.com/LorseKudos)
