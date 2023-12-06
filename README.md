@@ -20,8 +20,8 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=LorseKudos&layout=compact&theme=dracula)
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/Lorse" target="_blank" rel="noopener noreferrer"><img alt="LorseのLAPRASでのスコアは次の通りです: エンジニアリング: 3.58 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.8 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.58&b=3.48&i=3.8&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 12/5/2023, 1:17:00 AM</p>
+<p ><a href="https://lapras.com/public/Lorse" target="_blank" rel="noopener noreferrer"><img alt="LorseのLAPRASでのスコアは次の通りです: エンジニアリング: 3.58 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.81 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.58&b=3.48&i=3.81&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 12/6/2023, 1:16:59 AM</p>
 <!--END_SECTION:lapras-card-->
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/LorseKudos/posts.svg)](http://qiita.com/LorseKudos)
