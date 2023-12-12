@@ -21,7 +21,7 @@
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/Lorse" target="_blank" rel="noopener noreferrer"><img alt="LorseのLAPRASでのスコアは次の通りです: エンジニアリング: 3.58 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.81 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.58&b=3.48&i=3.81&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 12/11/2023, 1:16:59 AM</p>
+Last Updated on 12/12/2023, 1:16:57 AM</p>
 <!--END_SECTION:lapras-card-->
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/LorseKudos/posts.svg)](http://qiita.com/LorseKudos)
