@@ -10,6 +10,7 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/LorseKudos/contributions.svg)](https://qiita.com/LorseKudos)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/LorseKudos/followers.svg)](https://qiita.com/LorseKudos)
 [![My Zenn Posts](https://badgen.org/img/zenn/lorse/articles?style=plastic)](https://zenn.dev/lorse)
+[![Badge](https://cp-logo.vercel.app/atcoder/Lorse)](https://atcoder.jp/users/Lorse) 
 
 <!--
 [![Updated Badge](https://badges.pufler.dev/updated/LorseKudos/LorseKudos)](https://github.com/LorseKudos)
@@ -41,9 +42,6 @@ Last Updated on 3/21/2024, 1:12:34 AM</p>
 - [X-MAS CTF 2019 - Execute No Evil](https://lorse.hatenablog.com/entry/2019/12/21/215610)
 - [2019サマーインターン選考記録](https://lorse.hatenablog.com/entry/2019/08/03/223000)
 <!-- BLOG-POST-LIST:END -->
-
-# Competitive Programming
-[![Badge](https://cp-logo.vercel.app/atcoder/Lorse)](https://atcoder.jp/users/Lorse) 
 
 <!--
 **LorseKudos/LorseKudos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
