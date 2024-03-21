@@ -1,6 +1,6 @@
 ```python
 >>> import random
->>> ''.join(random.sample('Loser' ,len('Loser')))
+>>> ''.join(random.sample('Loser', len('Loser')))
 'Lorse'
 ```
 
