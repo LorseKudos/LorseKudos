@@ -4,26 +4,7 @@
 'Lorse'
 ```
 
-[![](https://raw.githubusercontent.com/LorseKudos/LorseKudos/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/LorseKudos/LorseKudos/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/LorseKudos/LorseKudos/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 [![My GitHub viewers](https://komarev.com/ghpvc/?username=LorseKudos)](https://github.com/LorseKudos)
-
-# Links
-- [Twitter](https://twitter.com/LorseKudos)
-- [Qiita](https://qiita.com/LorseKudos)
-- [Hatena](https://lorse.hatenablog.com/)
-
-# Stats :chart_with_upwards_trend:
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=LorseKudos&count_private=true&show_icons=true&theme=dracula)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=LorseKudos&layout=compact&theme=dracula)
-
-<!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/Lorse" target="_blank" rel="noopener noreferrer"><img alt="LorseのLAPRASでのスコアは次の通りです: エンジニアリング: 3.59 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.81 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.59&b=3.48&i=3.81&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 3/21/2024, 1:12:34 AM</p>
-<!--END_SECTION:lapras-card-->
-
 [![My GitHub followers](https://img.shields.io/github/followers/LorseKudos?label=follow&logo=github&style=flat)](https://github.com/LorseKudos)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/LorseKudos/posts.svg)](https://qiita.com/LorseKudos)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/LorseKudos/contributions.svg)](https://qiita.com/LorseKudos)
@@ -34,6 +15,23 @@ Last Updated on 3/21/2024, 1:12:34 AM</p>
 [![Updated Badge](https://badges.pufler.dev/updated/LorseKudos/LorseKudos)](https://github.com/LorseKudos)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/LorseKudos)](https://github.com/LorseKudos)
 -->
+
+# Links
+- [Twitter](https://twitter.com/LorseKudos)
+- [Qiita](https://qiita.com/LorseKudos)
+- [Hatena](https://lorse.hatenablog.com/)
+
+# Stats :chart_with_upwards_trend:
+[![](https://raw.githubusercontent.com/LorseKudos/LorseKudos/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/LorseKudos/LorseKudos/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/LorseKudos/LorseKudos/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=LorseKudos&count_private=true&show_icons=true&theme=dracula)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=LorseKudos&layout=compact&theme=dracula)
+
+<!--START_SECTION:lapras-card-->
+<p ><a href="https://lapras.com/public/Lorse" target="_blank" rel="noopener noreferrer"><img alt="LorseのLAPRASでのスコアは次の通りです: エンジニアリング: 3.59 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.81 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.59&b=3.48&i=3.81&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 3/21/2024, 1:12:34 AM</p>
+<!--END_SECTION:lapras-card-->
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
