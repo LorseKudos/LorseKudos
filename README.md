@@ -22,11 +22,11 @@
 - [Hatena](https://lorse.hatenablog.com/)
 
 # Stats :chart_with_upwards_trend:
-[![](https://raw.githubusercontent.com/LorseKudos/LorseKudos/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/LorseKudos/LorseKudos/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/LorseKudos/LorseKudos/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=LorseKudos&count_private=true&show_icons=true&theme=dracula)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=LorseKudos&layout=compact&theme=dracula)
+[![GitHub Profile-details Card](https://raw.githubusercontent.com/LorseKudos/LorseKudos/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Repos-per-language Card](https://raw.githubusercontent.com/LorseKudos/LorseKudos/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Most-commit-language Card](https://raw.githubusercontent.com/LorseKudos/LorseKudos/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Stats Card](https://raw.githubusercontent.com/LorseKudos/LorseKudos/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=LorseKudos&layout=donut&theme=dracula)
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/Lorse" target="_blank" rel="noopener noreferrer"><img alt="LorseのLAPRASでのスコアは次の通りです: エンジニアリング: 3.59 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.81 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.59&b=3.48&i=3.81&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
